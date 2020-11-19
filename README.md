@@ -5,5 +5,5 @@
 까만 화면에서 jupyter notebook --generate-config를 실행한다.
 
 헤더 정보 문제로 웹 사이트의 데이터를 읽어오지 못할 경우 아래와 같이 헤더 정보를 설정한 후 읽어야 한다.  
-헤더 정보 사이트 => https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/
+헤더 정보 사이트 => https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/  
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
